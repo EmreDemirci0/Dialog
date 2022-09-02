@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 09310823d8decaa4ca0ce52fce7c1497
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Galano Grotesque
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a45aa481c3b5c3d4a919d349dc62ab5c, type: 3}
+  - {fileID: 12800000, guid: 346eda710fe1ff6418c6fb120796777f, type: 3}
+  - {fileID: 12800000, guid: 63ad6709a1be8a74b90b3de3dd72e760, type: 3}
+  - {fileID: 12800000, guid: 64621446d24ff894899aa7c4abe95be6, type: 3}
+  - {fileID: 12800000, guid: b76d1c73e9728a74bb739e834d0f4095, type: 3}
+  - {fileID: 12800000, guid: d7dc51ad9c836b24d9f9d8e515349d93, type: 3}
+  - {fileID: 12800000, guid: 36525dcde3f0838458e87b6f019a1e33, type: 3}
+  - {fileID: 12800000, guid: 46d916e7f6e13bc40a08a89daeae877e, type: 3}
+  - {fileID: 12800000, guid: 376f35b03d458e74497f5f5acec1ce7f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

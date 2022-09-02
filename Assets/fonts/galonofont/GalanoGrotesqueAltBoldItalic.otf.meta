@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e0b2702a48450124ab012cfaf3713e79
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Galano Grotesque Alt
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6078fa0e901c96d44a1df2d8a51be0d7, type: 3}
+  - {fileID: 12800000, guid: 901cdac2536fedc40913e14c78d99851, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
