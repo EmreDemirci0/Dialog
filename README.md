@@ -1,2 +1,2 @@
 # Dialog
-Dialog
+Unity Dialog System
